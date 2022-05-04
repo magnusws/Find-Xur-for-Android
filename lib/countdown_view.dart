@@ -112,7 +112,7 @@ class _CountdownViewState extends State<CountdownView>
         child: CircularProgressIndicator(),
       );
 
-      // Hvis det er tid igjen til han ankommer, teller ned:
+      // Hvis det er tid igjen til han ankommer, teller ned til oppdagering:
     } else {
       return Container(
           width: MediaQuery.of(context).size.width * 0.80,

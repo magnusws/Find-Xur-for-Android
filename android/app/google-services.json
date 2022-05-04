@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "474776785531",
+    "firebase_url": "https://find-xur.firebaseio.com",
+    "project_id": "find-xur",
+    "storage_bucket": "find-xur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474776785531:android:bd872df968ce8a7cfdc8de",
+        "android_client_info": {
+          "package_name": "com.mawaso.find_xur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474776785531-0jl9aohmpto7haal63g1jtgog6naaajf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-2EnZZb1bE899B0eQ-ZH_FIY8At00Ma4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474776785531-0jl9aohmpto7haal63g1jtgog6naaajf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474776785531-p61fru6r8j557qbnsjajpde4ngrloorl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mawaso.Find-Xur-firebase-prototype"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

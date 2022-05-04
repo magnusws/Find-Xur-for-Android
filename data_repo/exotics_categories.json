@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Show all",
+    "icon": "all.png"
+  },
+  {
+    "title": "Titan",
+    "icon": "titan.png"
+  },
+  {
+    "title": "Hunter",
+    "icon": "hunter.png"
+  },
+  {
+    "title": "Warlock",
+    "icon": "warlock.png"
+  },
+  {
+    "title": "Weapons",
+    "icon": "weapons.png"
+  }
+]

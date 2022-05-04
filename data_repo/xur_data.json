@@ -1,0 +1,4 @@
+{
+    "xur": {"id":"128","date_time":"2020-05-12 12:00:26","location_id":"2","inventory_id":"123","is_here":"1","next_update":"May 15 2020 20:00:02 GMT+0200"},
+    "inventory": {"id":"123","item_hash_1":"4124984448","item_hash_2":"1474735276","item_hash_3":"1192890598","item_hash_4":"1096253259","date_time":"2020-05-08 12:00:06"}
+} 
